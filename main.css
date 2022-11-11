@@ -1,0 +1,17 @@
+
+*{margin:0;padding:0;}
+body{background:#BDBDBD;}
+#main_wrapper{
+	margin:0 auto;
+	width: 100%;
+	height:auto;
+	position:relative;
+}	
+
+#header{
+	position:relative;
+	height:52px;
+	background:#20da7b;
+	margin-bottom:5px;
+}#IT{font-size:28px; 
+text-align:center;padding-top:10px;}
